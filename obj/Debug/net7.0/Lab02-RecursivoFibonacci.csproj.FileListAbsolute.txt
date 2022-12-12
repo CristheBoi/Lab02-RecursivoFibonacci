@@ -1,0 +1,15 @@
+C:\Users\Cristian\Documents\EPN\Estructura de datos  y algoritmos II\Laboratorios\Lab02-RecursivoFibonacci\bin\Debug\net7.0\Lab02-RecursivoFibonacci.exe
+C:\Users\Cristian\Documents\EPN\Estructura de datos  y algoritmos II\Laboratorios\Lab02-RecursivoFibonacci\bin\Debug\net7.0\Lab02-RecursivoFibonacci.deps.json
+C:\Users\Cristian\Documents\EPN\Estructura de datos  y algoritmos II\Laboratorios\Lab02-RecursivoFibonacci\bin\Debug\net7.0\Lab02-RecursivoFibonacci.runtimeconfig.json
+C:\Users\Cristian\Documents\EPN\Estructura de datos  y algoritmos II\Laboratorios\Lab02-RecursivoFibonacci\bin\Debug\net7.0\Lab02-RecursivoFibonacci.dll
+C:\Users\Cristian\Documents\EPN\Estructura de datos  y algoritmos II\Laboratorios\Lab02-RecursivoFibonacci\bin\Debug\net7.0\Lab02-RecursivoFibonacci.pdb
+C:\Users\Cristian\Documents\EPN\Estructura de datos  y algoritmos II\Laboratorios\Lab02-RecursivoFibonacci\obj\Debug\net7.0\Lab02-RecursivoFibonacci.csproj.AssemblyReference.cache
+C:\Users\Cristian\Documents\EPN\Estructura de datos  y algoritmos II\Laboratorios\Lab02-RecursivoFibonacci\obj\Debug\net7.0\Lab02-RecursivoFibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristian\Documents\EPN\Estructura de datos  y algoritmos II\Laboratorios\Lab02-RecursivoFibonacci\obj\Debug\net7.0\Lab02-RecursivoFibonacci.AssemblyInfoInputs.cache
+C:\Users\Cristian\Documents\EPN\Estructura de datos  y algoritmos II\Laboratorios\Lab02-RecursivoFibonacci\obj\Debug\net7.0\Lab02-RecursivoFibonacci.AssemblyInfo.cs
+C:\Users\Cristian\Documents\EPN\Estructura de datos  y algoritmos II\Laboratorios\Lab02-RecursivoFibonacci\obj\Debug\net7.0\Lab02-RecursivoFibonacci.csproj.CoreCompileInputs.cache
+C:\Users\Cristian\Documents\EPN\Estructura de datos  y algoritmos II\Laboratorios\Lab02-RecursivoFibonacci\obj\Debug\net7.0\Lab02-RecursivoFibonacci.dll
+C:\Users\Cristian\Documents\EPN\Estructura de datos  y algoritmos II\Laboratorios\Lab02-RecursivoFibonacci\obj\Debug\net7.0\refint\Lab02-RecursivoFibonacci.dll
+C:\Users\Cristian\Documents\EPN\Estructura de datos  y algoritmos II\Laboratorios\Lab02-RecursivoFibonacci\obj\Debug\net7.0\Lab02-RecursivoFibonacci.pdb
+C:\Users\Cristian\Documents\EPN\Estructura de datos  y algoritmos II\Laboratorios\Lab02-RecursivoFibonacci\obj\Debug\net7.0\Lab02-RecursivoFibonacci.genruntimeconfig.cache
+C:\Users\Cristian\Documents\EPN\Estructura de datos  y algoritmos II\Laboratorios\Lab02-RecursivoFibonacci\obj\Debug\net7.0\ref\Lab02-RecursivoFibonacci.dll
